@@ -1,2 +1,3 @@
 flet==0.22.0
-kaleido
+plotly
+kaleido==0.2.1
